@@ -7,3 +7,7 @@ su betty
 ```
 whoami
 ```
+###### 2. Groups ######
+```
+groups
+```
