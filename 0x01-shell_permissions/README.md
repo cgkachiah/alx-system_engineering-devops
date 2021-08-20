@@ -43,3 +43,7 @@ chmod 753 hello
 ```
 chmod --reference=olleh hello
 ```
+###### 11. Directories ######
+```
+chmod a+X *
+```
