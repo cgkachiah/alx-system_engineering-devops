@@ -15,3 +15,11 @@ groups
 ```
 chwon
 ```
+###### 4. Empty ######
+```
+touch
+```
+###### 5. Execute ######
+```
+chmod +x touch
+```
