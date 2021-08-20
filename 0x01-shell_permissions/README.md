@@ -47,3 +47,7 @@ chmod --reference=olleh hello
 ```
 chmod a+X *
 ```
+###### 12. More directories ######
+```
+mkdir -m 751 my_dir
+```
