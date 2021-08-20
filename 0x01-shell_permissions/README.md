@@ -29,5 +29,9 @@ chmod ug+x,o+r hello
 ```
 ###### 7. Everybody ######
 ```
-chmod ugo+x hello
+chmod ugoa+x hello
+```
+###### 8. James Bond ######
+```
+chmod 007 hello
 ```
