@@ -23,3 +23,11 @@ touch
 ```
 chmod u+x hello
 ```
+###### 6. Multiple Permissions ######
+```
+chmod ug+x,o+r hello
+```
+###### 7. Everybody ######
+```
+chmod ugo+x hello
+```
