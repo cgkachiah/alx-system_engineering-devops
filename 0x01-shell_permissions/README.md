@@ -35,3 +35,11 @@ chmod ugoa+x hello
 ```
 chmod 007 hello
 ```
+###### 9. John Doe ######
+```
+chmod 753 hello
+```
+###### 10. Look in the mirror ######
+```
+chmod --reference=olleh hello
+```
