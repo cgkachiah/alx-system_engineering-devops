@@ -21,5 +21,5 @@ touch
 ```
 ###### 5. Execute ######
 ```
-chmod +x touch
+chmod u+x hello
 ```
